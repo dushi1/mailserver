@@ -19,7 +19,7 @@ app.post('/data', (req, res) => {
         service: 'gmail',
         auth: {
             user: 'allthingspcbdesign@gmail.com',
-            pass: 'allthingspcb'
+            pass: 'allthi'
         }
     });
 
